@@ -182,7 +182,7 @@ For learning and testing, using a Kali Linux or Ubuntu virtual machine is recomm
 
 ## 👨‍💻 Author
 
-**Your Name**
+**CoderTiku**
 
 B.Tech in Cyber Security
 
